@@ -1,0 +1,38 @@
+.fas{
+  font-size: 100px;
+  height: 200px;
+  color: white;
+  text-shadow: 2px 2px 28px rgba(255, 255, 255, 0.2);
+  margin: 40px;
+  text-align: center;
+  float: left;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  background: white;
+  margin: 0;
+}
+
+.content{
+  top: 30%;
+  left: 30%;
+  margin: 90px 100px;
+  padding: 100px 30px;
+  background-color: black;
+  align-content: center;
+  display: block;
+}
+
+p{
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  clear: both;
+}
+
+.hands{
+  margin: 2px 360px;
+}
